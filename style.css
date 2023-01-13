@@ -243,6 +243,7 @@ p {
 
   .blogs {
     grid-template-columns: repeat(1, 1fr);
+    padding-left: 2rem;
   }
   .courses {
     flex-direction: column;
